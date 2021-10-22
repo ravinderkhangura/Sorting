@@ -1,7 +1,6 @@
 import unittest
 from searching import *
-
-
+#test class
 class SearchingTests(unittest.TestCase):
     def test_linear_search(self):
         arr1 = [-2, 7, 3, -9, 5, 1, 0, 4, -6]
